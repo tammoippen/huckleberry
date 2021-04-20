@@ -10,3 +10,8 @@ body {
 }
 
 /* Add styles here! */
+.max-width-wrapper {
+  max-width: 544px;
+  margin-left: auto;
+  margin-right: auto;
+}
